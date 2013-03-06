@@ -1,0 +1,12 @@
+[submodule "bundle/vim-sensible"]
+	path = bundle/vim-sensible
+	url = git://github.com/tpope/vim-sensible.git
+[submodule "bundle/vim-trailing-whitespace"]
+	path = bundle/vim-trailing-whitespace
+	url = git://github.com/bronson/vim-trailing-whitespace.git
+[submodule "bundle/toggle_comment"]
+	path = bundle/toggle_comment
+	url = git://github.com/vim-scripts/toggle_comment.git
+[submodule "bundle/Flake8-vim"]
+	path = bundle/Flake8-vim
+	url = git://github.com/vim-scripts/Flake8-vim.git
