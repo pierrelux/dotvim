@@ -7,6 +7,21 @@
 [submodule "bundle/toggle_comment"]
 	path = bundle/toggle_comment
 	url = git://github.com/vim-scripts/toggle_comment.git
-[submodule "bundle/Flake8-vim"]
-	path = bundle/Flake8-vim
-	url = git://github.com/vim-scripts/Flake8-vim.git
+[submodule "bundle/Wombat"]
+	path = bundle/Wombat
+	url = git://github.com/vim-scripts/Wombat.git
+[submodule "bundle/jellybeans.vim"]
+	path = bundle/jellybeans.vim
+	url = git://github.com/nanotech/jellybeans.vim.git
+[submodule "bundle/vim-distinguished"]
+	path = bundle/vim-distinguished
+	url = git://github.com/Lokaltog/vim-distinguished.git
+[submodule "bundle/supertab"]
+	path = bundle/supertab
+	url = git://github.com/ervandew/supertab.git
+[submodule "bundle/tagbar"]
+	path = bundle/tagbar
+	url = git://github.com/majutsushi/tagbar.git
+[submodule "bundle/nerdtree"]
+	path = bundle/nerdtree
+	url = git://github.com/scrooloose/nerdtree.git
